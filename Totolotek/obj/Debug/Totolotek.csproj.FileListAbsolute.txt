@@ -1,0 +1,8 @@
+C:\Users\strum\Desktop\C#\Totolotek\Totolotek\bin\Debug\Totolotek.exe.config
+C:\Users\strum\Desktop\C#\Totolotek\Totolotek\bin\Debug\Totolotek.exe
+C:\Users\strum\Desktop\C#\Totolotek\Totolotek\bin\Debug\Totolotek.pdb
+C:\Users\strum\Desktop\C#\Totolotek\Totolotek\obj\Debug\Totolotek.csproj.AssemblyReference.cache
+C:\Users\strum\Desktop\C#\Totolotek\Totolotek\obj\Debug\Totolotek.csproj.SuggestedBindingRedirects.cache
+C:\Users\strum\Desktop\C#\Totolotek\Totolotek\obj\Debug\Totolotek.csproj.CoreCompileInputs.cache
+C:\Users\strum\Desktop\C#\Totolotek\Totolotek\obj\Debug\Totolotek.exe
+C:\Users\strum\Desktop\C#\Totolotek\Totolotek\obj\Debug\Totolotek.pdb
